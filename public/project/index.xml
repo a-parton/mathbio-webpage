@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Sheffield Math Bio</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Sheffield Math Bio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 University of Sheffield</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ecology &amp; Evolution of Infectious Diseases</title>
+      <link>/project/research-infect-disease/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/research-infect-disease/</guid>
+      <description>Understanding the emergence, spread and evolution of infectious diseases in natural and managed populations is a major challenge. Working closely with experimental biologists, we develop mathematical models describing the interactions of hosts and their parasites using ordinary differential equations. The main focus of our research is on how population-level processes drive evolutionary dynamics.
+Key questions include:
+ What host characteristics select for highly virulent rather than benign parasites? How do other community interactions affect the evolution of host defences to disease?</description>
+    </item>
+    
+    <item>
+      <title>Mathematical Ecology</title>
+      <link>/project/research-math-ecology/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/research-math-ecology/</guid>
+      <description>Mathematical models of ecological systems are of fundamental importance for predicting and managing changes in the natural world.
+At Sheffield, we are particularly interested in the following questions:
+ Can we construct techniques to help predict the effects of future environmental change on the ability of animal populations to survive? How do complex systems of animal movements and interactions give rise to emergent population-level patterns? Can we predict where biological invasions are likely to occur and how can we control their spread?</description>
+    </item>
+    
+    <item>
+      <title>Mathematical modelling in cell and developmental biology</title>
+      <link>/project/research-cell-devel/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/research-cell-devel/</guid>
+      <description>Understanding how animals develop has profound implications for our ability to engineer and repair tissues. Since Alan Turing&amp;rsquo;s reaction-diffusion theory of morphogenesis in the 1950s, mathematical modelling has helped developmental biologists to understand the mechanisms and dynamics behind their observations.
+At Sheffield, in collaboration with experimentalists, we use mathematical modelling tackle the following key questions:
+ How do signalling molecules provide positional information to cells in developing tissues? How do mechanical forces shape developing tissues?</description>
+    </item>
+    
+    <item>
+      <title>Statistical Ecology</title>
+      <link>/project/research-stat-ecology/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/research-stat-ecology/</guid>
+      <description>Ecological models and data present many challenging statistical problems. Research on this topic in Sheffield concentrates particularly on Bayesian computer-intensive statistical methods, in collaboration with statistical colleagues, especially through the National Centre for Statistical Ecology, and with ecologists both in Sheffield and worldwide.
+Examples of current interest include:
+ Movement modelling and inference, using continuous-time stochastic models to interpret data from GPS and similar tracking methods, from individuals and from groups of animals.</description>
+    </item>
+    
+    <item>
+      <title>Statistical Genetics/Epigenetics &amp; Genetic Epidemiology</title>
+      <link>/project/research-genetics/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/research-genetics/</guid>
+      <description>Understanding the role of genetics and epigenetic variation is important because it allows the possibility of personalized medicine. Approaches to studying genetic/epigenetic variation are highly statistical and probabilistic.
+At Sheffield we are working on:
+ Developing Bayesian statistical methods to incorporate functional genomic information into eQTL mapping. Novel Bayes factors for use in fine-mapping multi-factorial genetic diseases. Likelihood-free inference for problems involving cellular populations, particularly stem cells. Developing hidden Markov models to detect essential regions using bacterial transposon sequencing data.</description>
+    </item>
+    
+  </channel>
+</rss>

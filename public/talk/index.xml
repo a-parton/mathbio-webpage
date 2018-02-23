@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Sheffield Math Bio</title>
+    <link>/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Sheffield Math Bio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 University of Sheffield</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Accounting for detectability in spatially-explicit abundance models of cetaceans</title>
+      <link>/talk/d-miller/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/d-miller/</guid>
+      <description>Since before the moratorium on commercial whaling, folks have wanted to know how many cetaceans there are and where they can be found. Primarily, we are therefore interested in maps of where whales are and measures of how certain we are about their distribution and abundance. Modelling cetaceans is difficult for a number of reasons: (i) distribution, many species travel large distances and occur at relatively low densities over large areas; (ii) detectability, despite their size, even large whales may be difficult to spot due to ocean conditions; (ii) availability, whales exist in three dimensions and may not be available to be detected for long periods of time due to diving behaviour.</description>
+    </item>
+    
+    <item>
+      <title>Sex, parasites and coevolution </title>
+      <link>/talk/b-ashby/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/b-ashby/</guid>
+      <description>Parasites are ubiquitous in the natural world and are likely to be a key driver of host evolution, not only for traits clearly related to disease (e.g. resistance, tolerance), but also for host sociality, reproductive strategies, and mate choice. Antagonistic coevolution - a process of reciprocal adaptations by hosts to defend against parasitism and counter-adaptations by parasites to overcome or avoid host defences - is critical to understanding these biological phenomena, because having a constantly changing antagonist can induce very strong selection and lead to the rapid emergence of novel traits.</description>
+    </item>
+    
+    <item>
+      <title>TBC</title>
+      <link>/talk/c-orlendo/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/c-orlendo/</guid>
+      <description>TBC</description>
+    </item>
+    
+    <item>
+      <title>TBC</title>
+      <link>/talk/j-kursawe/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/j-kursawe/</guid>
+      <description>TBC</description>
+    </item>
+    
+    <item>
+      <title>TBC</title>
+      <link>/talk/k-king/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/k-king/</guid>
+      <description>Joint with APS Seminar Series
+TBC</description>
+    </item>
+    
+    <item>
+      <title>TBC</title>
+      <link>/talk/n-savage/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/n-savage/</guid>
+      <description>TBC</description>
+    </item>
+    
+    <item>
+      <title>TBC - POSTPONED</title>
+      <link>/talk/j-travis/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/j-travis/</guid>
+      <description>TBC</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sheffield Math Bio on Sheffield Math Bio</title>
+    <link>/</link>
+    <description>Recent content in Sheffield Math Bio on Sheffield Math Bio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 University of Sheffield</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Accounting for detectability in spatially-explicit abundance models of cetaceans</title>
+      <link>/talk/d-miller/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/d-miller/</guid>
+      <description>&lt;p&gt;Since before the moratorium on commercial whaling, folks have wanted to
+know how many cetaceans there are and where they can be found. Primarily, we are therefore interested in maps of where whales are and measures of how certain we are about their distribution and abundance. Modelling cetaceans is difficult for a number of reasons: (i) distribution, many species travel large distances and occur at relatively low densities over large areas; (ii) detectability, despite their size, even large whales may be difficult to spot due to ocean conditions; (ii) availability, whales exist in three dimensions and may not be available to be detected for long periods of time due to diving behaviour. I&amp;rsquo;ll give an overview of one set of connected approaches to these issues and how they sit together in a flexible modelling framework. Models rely on a two (or more)-stage approach using distance sampling techniques and generalized additive models. Although I&amp;rsquo;ll focus on modelling large(ish) whales, this approach can be applied to most biological populations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Alison Parton</title>
+      <link>/people/a-parton/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/people/a-parton/</guid>
+      <description>
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dylan Childs;&lt;/li&gt;
+&lt;li&gt;Paul Blackwell.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;research-interests&#34;&gt;Research interests&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Animal movement;&lt;/li&gt;
+&lt;li&gt;Statistical ecology.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;contact-details&#34;&gt;Contact details&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Email: A.Parton@shef.ac.uk&lt;/li&gt;
+&lt;li&gt;Website: &lt;a href=&#34;http://alisonparton.co.uk/&#34; target=&#34;_blank&#34;&gt;alisonparton.co.uk&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beth Holland</title>
+      <link>/people/b-holland/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/people/b-holland/</guid>
+      <description>&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dr Alex Best</title>
+      <link>/people/a-best/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/people/a-best/</guid>
+      <description>
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;research-interests&#34;&gt;Research interests&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mathematical biology;&lt;/li&gt;
+&lt;li&gt;Evolutionary dynamics;&lt;/li&gt;
+&lt;li&gt;Population dynamics.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;contact-details&#34;&gt;Contact details&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Email: A.Best@shef.ac.uk&lt;/li&gt;
+&lt;li&gt;Website: &lt;a href=&#34;http://abest.staff.shef.ac.uk&#34; target=&#34;_blank&#34;&gt;abest.staff.shef.ac.uk&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dr Alex Fletcher</title>
+      <link>/people/a-fletcher/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/people/a-fletcher/</guid>
+      <description>
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;research-interests&#34;&gt;Research interests&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mathematical biology;&lt;/li&gt;
+&lt;li&gt;Morphogenesis;&lt;/li&gt;
+&lt;li&gt;Tissue dynamics.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;contact-details&#34;&gt;Contact details&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Email: A.G.Fletcher@sheffield.ac.uk&lt;/li&gt;
+&lt;li&gt;Website: &lt;a href=&#34;http://alex-fletcher.staff.shef.ac.uk/&#34; target=&#34;_blank&#34;&gt;alex-fletcher.staff.shef.ac.uk&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dr Eun-Jin Kim</title>
+      <link>/people/e-kim/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/people/e-kim/</guid>
+      <description>
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;research-interests&#34;&gt;Research interests&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Regulation, self-organization and complexity in nonlinear systems including biological systems;&lt;/li&gt;
+&lt;li&gt;Stochastic theory of structure formation, and transport and its regulation;&lt;/li&gt;
+&lt;li&gt;Interdisciplinary research in non-equilibrium systems.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;contact-details&#34;&gt;Contact details&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Email: E.Kim@shef.ac.uk&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dr Jonathan Potts</title>
+      <link>/people/j-potts/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/people/j-potts/</guid>
+      <description>
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;research-interests&#34;&gt;Research interests&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mathematical ecology;&lt;/li&gt;
+&lt;li&gt;Animal movement;&lt;/li&gt;
+&lt;li&gt;Biological invasions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;contact-details&#34;&gt;Contact details&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Email: J.Potts@shef.ac.uk&lt;/li&gt;
+&lt;li&gt;Website: &lt;a href=&#34;http://www.math.ualberta.ca/~jrpotts/&#34; target=&#34;_blank&#34;&gt;www.math.ualberta.ca/~jrpotts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dr Katy Fisher</title>
+      <link>/people/k-fisher/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/people/k-fisher/</guid>
+      <description>
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;David Strutt;&lt;/li&gt;
+&lt;li&gt;Nick Monk.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;research-interests&#34;&gt;Research interests&lt;/h2&gt;
+
+&lt;p&gt;I am currently working on mathematical models of planar polarity formation, investigating global polarity cues and feedback mechanisms. I test model predictions by carrying out experiments in developing Drosophila tissues. I have a wider interest in how cell polarity is maintained in migrating cells, its role in collective cell movement, and its role in the morphogenesis of three dimensional structures.&lt;/p&gt;
+
+&lt;h2 id=&#34;contact-details&#34;&gt;Contact details&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Email: K.H.Fisher@shef.ac.uk&lt;/li&gt;
+&lt;li&gt;Website: &lt;a href=&#34;http://www.drkatherinefisher.wordpress.com/&#34; target=&#34;_blank&#34;&gt;drkatherinefisher.wordpress.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dr Kevin Walters</title>
+      <link>/people/k-walters/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/people/k-walters/</guid>
+      <description>
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;research-interests&#34;&gt;Research interests&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Genetic epidemiology;&lt;/li&gt;
+&lt;li&gt;Statistical genetics.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;contact-details&#34;&gt;Contact details&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Email: K.Walters@shef.ac.uk&lt;/li&gt;
+&lt;li&gt;Website: &lt;a href=&#34;http://www.kevinwalters.staff.shef.ac.uk/&#34; target=&#34;_blank&#34;&gt;kevinwalters.staff.shef.ac.uk&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dr Miguel Juarez</title>
+      <link>/people/m-juarez/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/people/m-juarez/</guid>
+      <description>
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;research-interests&#34;&gt;Research interests&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Gene regulatory networks, panel and longitudinal data, reference priors.&lt;/li&gt;
+&lt;li&gt;I am currently working on models for gene regulatory networks using short time series with replicated measurements, exploring ways of specifying priors that can accommodate correlations among the network coefficients.&lt;/li&gt;
+&lt;li&gt;I am also developing models for analysis and tracking of STORM superresolution imaging.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;contact-details&#34;&gt;Contact details&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Email: M.Juarez@shef.ac.uk&lt;/li&gt;
+&lt;li&gt;Website: &lt;a href=&#34;http://majuarez.staff.shef.ac.uk/&#34; target=&#34;_blank&#34;&gt;majuarez.staff.shef.ac.uk&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fay Frost</title>
+      <link>/people/f-frost/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/people/f-frost/</guid>
+      <description>&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jimmie Hällman</title>
+      <link>/people/j-hallman/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/people/j-hallman/</guid>
+      <description>&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jordan Milner</title>
+      <link>/people/j-milner/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/people/j-milner/</guid>
+      <description>&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lu Xiao</title>
+      <link>/people/l-xiao/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/people/l-xiao/</guid>
+      <description>&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Natasha Ellison</title>
+      <link>/people/n-ellison/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/people/n-ellison/</guid>
+      <description>
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jonathan Potts.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;research-interests&#34;&gt;Research interests&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mathematical ecology;&lt;/li&gt;
+&lt;li&gt;Pattern formation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;contact-details&#34;&gt;Contact details&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Email: NEllison1@shef.ac.uk&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
